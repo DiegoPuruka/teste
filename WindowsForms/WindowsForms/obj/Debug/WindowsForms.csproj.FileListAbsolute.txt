@@ -1,0 +1,13 @@
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Puruka\source\repos\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
